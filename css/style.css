@@ -1,0 +1,72 @@
+body {
+
+    background: rgb(255, 255, 255);
+}
+
+#Header a:hover {
+    color: rgb(179, 179, 187)
+}
+
+#bg-img {
+    background: url('../img/ai1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+}
+
+#About {
+    margin-top: -200px;
+
+}
+
+#About .fa {
+    color: #FFF;
+
+
+}
+
+#About span {
+    padding: 10px 20px 10px 20px;
+    background-color: rgb(219, 36, 91);
+}
+
+#About hr {
+    border-width: 3px;
+    margin-top: 06px
+}
+
+#Skills span {
+    padding: 10px 20px 10px 20px;
+
+
+}
+
+#Skills hr {
+    border-width: 3px;
+    margin-top: 06px
+}
+
+#Experience span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Experience hr {
+    border-width: 3px;
+    margin-top: 06px
+}
+
+#Experience .card {
+    border-top: 03px solid #d63031;
+}
+
+
+#Contact span {
+    padding: 10px 20px 10px 20px;
+}
+
+#Contact hr {
+    border-width: 3px;
+    margin-top: 06px;
+}
+
+/*import fonts @import url(./fonts.css)*/
